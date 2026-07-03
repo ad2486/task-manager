@@ -44,6 +44,7 @@ div#checklist {
     height: 70%;
     padding: 20px;
     border-radius: 20px;
+    overflow-y: auto;
 }
 
 div#buttons {
@@ -52,11 +53,13 @@ div#buttons {
     gap: 30px;
 }
 
-#button {
+.button {
     background-color: black;
     font-family: Montserrat;
     color: white;
-    width: 100%;
+    width: 90%;
+    flex: 1;
     font-size: 20pt;
     padding: 15px;
+    border-radius: 10px;
 }
