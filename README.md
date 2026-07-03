@@ -66,10 +66,18 @@ Potential enhancements for this project:
 - Drag-and-drop reordering
 - Dark/light mode toggle
 
+## About
+
+Hi! I'm **Arthur Duarte**, a Brazilian high school student passionate about programming.
+
+I'm currently learning HTML/CSS/JS for fullstack freelance work, and I've already built backend projects with Python and Flask. My goal is to study Computer Science in college and work as a developer.
+
+This CLI was one of my first real-world Python projects, built to learn about API integration, project structure, and terminal applications.
+
+- 🐙 GitHub: [@ad2486](https://github.com/ad2486)
+
 ## License
 
 This project is open source and available for personal or educational use.
 
 ---
-
-*Built with ❤️ for simple task management*
